@@ -15,6 +15,8 @@ Recommendations:
 
 Increase the number of free courses, especially for beginners.
 Slightly increase the prices of all subjects except Musical Instruments, which had the fewest subscribers.
+
+
 2. Forbes Project
 Problem: This project analyzed the top 2000 businesses listed by Forbes from 2017-2021 to gauge the impact of COVID-19 on global businesses and economies, with a focus on sales, profits, and market value.
 
